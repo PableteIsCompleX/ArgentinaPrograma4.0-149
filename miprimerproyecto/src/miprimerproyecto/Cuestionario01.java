@@ -6,7 +6,7 @@ public class Cuestionario01 {
 		
 		int i = 60;
 		
-		int j = 100;
+		int j = 500;
 
 		while(i > 0) {// solo va a ingresar cuando el valor de i sea > 0
 			System.out.println("i ingresa con el valor de:"+i);
