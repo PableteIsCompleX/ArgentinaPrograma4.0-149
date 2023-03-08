@@ -1,12 +1,10 @@
-package miprimerproyecto;
+package miprimerproyecto.Tema1;
 
 public class Cuestionario01 {
 
 	public static void main(String[] args) {
 		
-		int i = 60;
-		
-		int j = 500;
+		int i = 6;
 
 		while(i > 0) {// solo va a ingresar cuando el valor de i sea > 0
 			System.out.println("i ingresa con el valor de:"+i);

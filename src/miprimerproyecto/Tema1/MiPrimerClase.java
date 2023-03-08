@@ -1,13 +1,13 @@
-package miprimerproyecto;
+package miprimerproyecto.Tema1;
 
 public class MiPrimerClase {
 
 	public static void main(String[] args) {
 		
-		int numero = 50;
+		int numero = 1;
 
 		// OPERACIONES BASICAS
-		int suma   = 10 + 30;		
+		int suma   = 10 + 20;		
 		int resta  = 15 - 12;
 		int mult   = 10 * 3;
 		int div    = 8 / 3;
